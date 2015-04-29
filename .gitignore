@@ -1,1 +1,10 @@
+README.md<<<<<<< HEAD
 README.md
+=======
+node_modules/
+bower_components/
+*.log
+
+build/
+dist/
+>>>>>>> 1197e597459ce979984ce1dd6e0a117fa4c7fbbf
